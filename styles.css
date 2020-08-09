@@ -65,7 +65,7 @@ background: linear-gradient(90deg, rgba(221,221,221,1) 0%, rgba(249,234,248,1) 5
 }
 
 .skill-row {
-  margin: 80px auto;
+  margin: 100px auto;
   width: 50%;
   text-align: left;
   line-height: 2;
@@ -83,7 +83,7 @@ background: linear-gradient(90deg, rgba(221,221,221,1) 0%, rgba(249,234,248,1) 5
   width: 12.5rem;
   float: right;
   margin-left: 30px;
-  margin-buttom: 50px;
+ 
 }
 
 .btn {
