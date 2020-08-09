@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Sahitya', serif, #40514E;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 25%;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 25%;
+  top: 50px;
+}
+
+h1 {
+  color: #89c9b8;
+  font-size: 5.3rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Satisfy', cursive;
+}
+
+h2 {
+  color: #89c9b8;
+  font-size: 1.8rem;
+  font-family: 'Indie Flower', cursive;
+}
+
+h3 {
+  color: #d9adad;
+  font-family: 'Indie Flower', cursive;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 8%;
+  border-width: 5px;
+  border-color: #d9adad;
+  margin: 50px auto;
+}
+
+#subtitle {
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #dddddd;
+  position: relative;
+  padding-top: 100px;
+  margin: 0
+}
+
+.middle-container {
+  padding-top: 70px;
+  background: rgb(221,221,221);
+background: linear-gradient(90deg, rgba(221,221,221,1) 0%, rgba(249,234,248,1) 50%, rgba(221,221,221,1) 100%);
+}
+
+.me-img {
+  width: 18.75rem;
+}
+
+.skill-row {
+  margin: 80px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.coding-img {
+  border-radius: 50%;
+  width: 12.5rem;
+  float: left;
+  margin-right: 30px;
+}
+
+.translation-img {
+  border-radius: 50%;
+  width: 12.5rem;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  box-shadow: 0 0 0 2px #89c9b8;
+  background: linear-gradient(to bottom, #dddddd 5%, #d9adad 100%);
+  background-color: #89c9b8;
+  border-radius: 10px;
+  border: 1px solid #d9adad;
+  display: inline-block;
+  cursor: pointer;
+  color: #84a9ac;
+  font-family: Iceland;
+  font-size: 19px;
+  padding: 12px 27px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #283966;
+  margin: 40px auto;
+}
+
+.btn:hover {
+  background: #B4C4D6;
+  background-image: -webkit-linear-gradient(top, #B4C4D6, #d9adad);
+  background-image: -moz-linear-gradient(top, #B4C4D6, #d9adad);
+  background-image: -ms-linear-gradient(top, #B4C4D6,#d9adad);
+  background-image: -o-linear-gradient(top, #B4C4D6, #d9adad);
+  background-image: linear-gradient(to bottom, #B4C4D6, #d9adad);
+  color: white;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #dddddd;
+  color: #84a9ac;
+  padding: 30px 0 20px;
+}
+
+.footer-link {
+  margin: 30px;
+}
+
+a {
+  color: #89c9b8;
+  text-decoration: none;
+  font-family: 'Sahitya', serif;
+}
+
+a:hover {
+  color: #d9adad;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  padding: 20px 0 0;
+}
